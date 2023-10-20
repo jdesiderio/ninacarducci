@@ -46,7 +46,7 @@ body {
 }
 
 .carousel-item img {
-  aspect-ratio: auto 1920 / 888;
+  aspect-ratio: 1920 / 888;
 }
 
 #about {
@@ -77,7 +77,7 @@ body {
 .picture img {
   width: 100%;
   height: auto;
-  aspect-ratio: auto 519 / 518;
+  aspect-ratio: 519 / 518;
 }
 
 #about-me {
